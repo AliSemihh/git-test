@@ -1,0 +1,3 @@
+[submodule "first-steps-with-git"]
+	path = first-steps-with-git
+	url = git@github.com:AliSemihh/git-test.git
